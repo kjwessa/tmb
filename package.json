@@ -1,0 +1,63 @@
+{
+  "name": "brewww-studio",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "build:start": "next build && next start",
+    "lint": "next lint",
+    "clean": "rm -rf .next/ && rm -rf node_modules/ && pnpm install"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.14",
+    "babel-plugin-react-compiler": "0.0.0-experimental-de2cfda-20240912",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "eslint-plugin-react-compiler": "0.0.0-experimental-75b9fd4-20240912",
+    "gsap": "^3.12.5",
+    "next": "15.0.0-canary.160",
+    "react": "19.0.0-rc-5dcb0097-20240918",
+    "react-dom": "19.0.0-rc-5dcb0097-20240918",
+    "sharp": "^0.33.5",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.2",
+    "@types/react": "npm:types-react@19.0.0-rc-5dcb0097-20240918",
+    "@types/react-dom": "npm:types-react-dom@19.0.0-rc-5dcb0097-20240918",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.4",
+  
+    "postcss": "^8.4.41",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.6",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.5.4"
+  },
+  "pnpm": {
+    "overrides": {
+      "@types/react": "npm:types-react@19.0.0-rc.0",
+      "@types/react-dom": "npm:types-react-dom@19.0.0-rc.0"
+    }
+  },
+  "overrides": {
+    "@types/react": "npm:types-react@19.0.0-rc.0",
+    "@types/react-dom": "npm:types-react-dom@19.0.0-rc.0"
+  },
+  "next-unused": {
+    "alias": {},
+    "include": [
+      "src"
+    ],
+    "exclude": [
+      "node_modules"
+    ],
+    "entrypoints": [
+      "src/app"
+    ]
+  }
+}
