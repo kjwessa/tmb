@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "title": "Patrick of Ireland",
+    "description": "The patron saint of Ireland who brought Christianity to the Emerald Isle.",
+    "img": "/images/patrick.png",
+    "rating": "Everyone"
+  },
+  {
+    "id": 2,
+    "title": "Joan of Arc",
+    "description": "A young French heroine who led armies and was later canonized as a Roman Catholic saint.",
+    "img": "/images/joan.png",
+    "rating": "13+"
+  },
+  {
+    "id": 3,
+    "title": "Pier Giorgio Frassati",
+    "description": "An Italian Catholic activist known for his dedication to social justice and his joyful spirit.",
+    "img": "/images/pier.png",
+    "rating": "7+"
+  },
+  {
+    "id": 4,
+    "title": "Francis of Assisi",
+    "description": "The founder of the Franciscan Order, known for his love of nature and animals.",
+    "img": "/saints/francis-of-assisi.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 5,
+    "title": "Carlo Acutis",
+    "description": "A young Italian programmer beatified for his use of technology to spread the faith.",
+    "img": "/saints/carlo-acutis.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 6,
+    "title": "JP2 - Karol Wojtyla",
+    "description": "Pope John Paul II, one of the most influential popes in modern history.",
+    "img": "/saints/jp2-karol-wojtyla.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 7,
+    "title": "St. Benedict",
+    "description": "The founder of Western monasticism and author of the Rule of Saint Benedict.",
+    "img": "/saints/benedict.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 8,
+    "title": "Juan Diego",
+    "description": "The first Roman Catholic indigenous saint from the Americas, associated with Our Lady of Guadalupe.",
+    "img": "/saints/juan-diego.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 9,
+    "title": "Kateri Tekakwitha",
+    "description": "The first North American indigenous person to be canonized by the Roman Catholic Church.",
+    "img": "/saints/kateri-tekakwitha.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 10,
+    "title": "Isaac Jogues",
+    "description": "A French Jesuit priest and missionary martyr in North America.",
+    "img": "/saints/isaac-jogues.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 11,
+    "title": "Saint George",
+    "description": "A Roman soldier venerated as a Christian martyr, often depicted slaying a dragon.",
+    "img": "/saints/george.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 12,
+    "title": "Elizabeth Ann Seton",
+    "description": "The first native-born citizen of the United States to be canonized by the Roman Catholic Church.",
+    "img": "/saints/elizabeth-ann-seton.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 13,
+    "title": "Josephine Bakhita",
+    "description": "A Sudanese-Italian former slave who became a Roman Catholic saint.",
+    "img": "/saints/josephine-bakhita.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 14,
+    "title": "Saint Valentine",
+    "description": "A 3rd-century Roman saint associated with courtly love and affection.",
+    "img": "/saints/valentine.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 15,
+    "title": "Damien of Molokai",
+    "description": "A Belgian priest who ministered to people with leprosy in Hawaii.",
+    "img": "/saints/damien-of-molokai.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 16,
+    "title": "Bernadette of Lourdes",
+    "description": "A young French girl known for Marian apparitions at Lourdes.",
+    "img": "/saints/bernadette-of-lourdes.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 17,
+    "title": "Frances Xavier Cabrini",
+    "description": "The first United States citizen to be canonized, known for her work with Italian immigrants.",
+    "img": "/saints/frances-xavier-cabrini.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 18,
+    "title": "John Bosco",
+    "description": "An Italian priest who dedicated his life to the betterment and education of street children.",
+    "img": "/saints/john-bosco.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 19,
+    "title": "Edith Stein",
+    "description": "A German Jewish philosopher who converted to Catholicism and became a Carmelite nun.",
+    "img": "/saints/edith-stein.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 20,
+    "title": "Paul Miki",
+    "description": "A Japanese Jesuit seminarian who was martyred for his faith.",
+    "img": "/saints/paul-miki.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 21,
+    "title": "Stanley Rother",
+    "description": "An American priest and martyr who served in Guatemala.",
+    "img": "/saints/stanley-rother.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 22,
+    "title": "Clare of Assisi",
+    "description": "The founder of the Order of Poor Ladies, a monastic religious order for women.",
+    "img": "/saints/clare-of-assisi.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 23,
+    "title": "Dymphna",
+    "description": "An Irish saint associated with mental health and nervous system disorders.",
+    "img": "/saints/dymphna.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 24,
+    "title": "Gianna Molla",
+    "description": "An Italian pediatrician canonized for refusing abortion when pregnant with her fourth child.",
+    "img": "/saints/gianna-molla.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 25,
+    "title": "Saint Charbel",
+    "description": "A Maronite monk and priest from Lebanon known for his devotion and miracles.",
+    "img": "/saints/charbel.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 26,
+    "title": "Junipero Serra",
+    "description": "A Spanish Franciscan friar who founded missions in California.",
+    "img": "/saints/junipero-serra.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 27,
+    "title": "Moses the Black",
+    "description": "An Ethiopian desert monk known for his conversion from a life of crime.",
+    "img": "/saints/moses-the-black.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 28,
+    "title": "Philip Howard",
+    "description": "An English nobleman who became a Catholic martyr during the reign of Elizabeth I.",
+    "img": "/saints/philip-howard.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 29,
+    "title": "Genesius",
+    "description": "A Roman actor who converted to Christianity while performing a satirical play about Christian rites.",
+    "img": "/saints/genesius.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 30,
+    "title": "Maximilian Kolbe",
+    "description": "A Polish Franciscan friar who volunteered to die in place of a stranger in Auschwitz.",
+    "img": "/saints/maximilian-kolbe.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 31,
+    "title": "Our Lady of Fatima",
+    "description": "A Marian apparition reported by three shepherd children in Fatima, Portugal.",
+    "img": "/saints/our-lady-of-fatima.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 32,
+    "title": "Josemaria Escriva",
+    "description": "A Spanish priest who founded Opus Dei, an organization of laypeople and priests.",
+    "img": "/saints/josemaria-escriva.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 33,
+    "title": "Katharine Drexel",
+    "description": "An American heiress who became a Roman Catholic nun and founded the Sisters of the Blessed Sacrament.",
+    "img": "/saints/katharine-drexel.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 34,
+    "title": "Thomas More",
+    "description": "An English lawyer, statesman, and martyr who opposed Henry VIII's separation from the Catholic Church.",
+    "img": "/saints/thomas-more.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 35,
+    "title": "Perpetua and Felicity",
+    "description": "Christian martyrs of the 3rd century who were put to death in Roman Carthage.",
+    "img": "/saints/perpetua-and-felicity.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 36,
+    "title": "John Vianney",
+    "description": "A French parish priest known for his priestly and pastoral work in his parish of Ars.",
+    "img": "/saints/john-vianney.jpg",
+    "rating": "7+"
+  },
+  {
+    "id": 37,
+    "title": "Therese of Lisieux",
+    "description": "A French Carmelite nun known for her 'little way' of holiness in everyday life.",
+    "img": "/saints/therese-of-lisieux.jpg",
+    "rating": "Everyone"
+  },
+  {
+    "id": 38,
+    "title": "Augustine",
+    "description": "An early Christian theologian and philosopher whose writings influenced Western Christianity.",
+    "img": "/saints/augustine.jpg",
+    "rating": "13+"
+  },
+  {
+    "id": 39,
+    "title": "Teresa of Avila",
+    "description": "A Spanish mystic, Carmelite nun, and reformer known for her spiritual writings.",
+    "img": "/saints/teresa-of-avila.jpg",
+    "rating": "7+"
+  }
+]
