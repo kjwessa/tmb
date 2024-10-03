@@ -1,7 +1,7 @@
 import Image from "next/image";
-import { ShowCard } from "@/components/CardHome";
-import { BlogCard } from "@/components/CardBlog";
-import { Button } from "@/components/Button";
+import { ActionCard } from "@/components/ActionCard/index";
+import { BlogCard } from "@/components/BlogCard/index";
+import { Button } from "@/components/Button/index";
 export default function HomePage() {
   return (
     <>
@@ -126,7 +126,7 @@ export default function HomePage() {
         <div className="relative grid auto-cols-fr grid-cols-[123.5px_1440px_123.5px] grid-rows-[34.13rem]">
           <div className="col-start-2 col-end-3 row-start-1 row-end-2">
             <div className="grid auto-cols-fr grid-cols-[348px_348px_348px_348px] grid-rows-[34.13rem] gap-4">
-              <ShowCard
+              <ActionCard
                 imageSrc="https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/6507c18325f1b4d2bc3cfe86_TS2%20-%20Joan%20of%20Arc%20Episode%20Graphic%201080.png"
                 alt="Joan of Arc"
                 title="Joan of Arc"
@@ -134,7 +134,7 @@ export default function HomePage() {
                 actionText="Listen Now"
                 href="https://themerrybeggars.com/episodes/ts2-1-joan-of-arc-episode-one"
               />
-              <ShowCard
+              <ActionCard
                 imageSrc="https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/6558c9507be7e8b2a7501c6a_CLive_1x1.png"
                 alt="Christmas, Live!"
                 title="Christmas, Live!"
@@ -142,7 +142,7 @@ export default function HomePage() {
                 actionText="Watch Now"
                 href="https://themerrybeggars.com/shows/christmas-live"
               />
-              <ShowCard
+              <ActionCard
                 imageSrc="https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/64fea820e1882694e7e2a11c_The%20Saints%20-%20with%20TMB%20Wordmark%201080.png"
                 alt="The Saints"
                 title="The Saints"
@@ -150,7 +150,7 @@ export default function HomePage() {
                 actionText="Listen Now"
                 href="https://themerrybeggars.com/shows/the-saints"
               />
-              <ShowCard
+              <ActionCard
                 imageSrc="https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/6558c82ee7571c0eed95c578_0%20-%20NT%20Square%20Cover%20-%201080p.png"
                 alt="On the Night Train"
                 title="On the Night Train"

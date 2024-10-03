@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-interface ShowCardProps {
+interface ActionCardProps {
   imageSrc?: string;
   alt?: string;
   title?: string;
@@ -9,14 +9,14 @@ interface ShowCardProps {
   href?: string;
 }
 
-export function ShowCard({
+export function ActionCard({
   imageSrc,
   alt,
   title,
   description,
   actionText,
   href,
-}: ShowCardProps) {
+}: ActionCardProps) {
   return (
     <div className="relative bg-white">
       <div className="relative aspect-square">
