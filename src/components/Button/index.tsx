@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Link from "next/link";
 import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/utilities/cn";
 
@@ -32,13 +33,31 @@ export interface ButtonProps
     VariantProps<typeof buttonVariants> {
   leftIcon?: React.ReactNode;
   rightIcon?: React.ReactNode;
+  href?: string;
 }
 
 const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
   (
-    { className, variant, size, leftIcon, rightIcon, children, ...props },
+    { className, variant, size, leftIcon, rightIcon, children, href, ...props },
     ref,
   ) => {
+    if (href) {
+      return (
+        <Link
+          href={href}
+          className={cn(
+            buttonVariants({ variant, size, className }),
+            "outline-2 outline-offset-2 outline-transparent focus:outline-current",
+          )}
+          {...(props as React.AnchorHTMLAttributes<HTMLAnchorElement>)}
+        >
+          {leftIcon && <span className="mr-2">{leftIcon}</span>}
+          {children}
+          {rightIcon && <span className="ml-2">{rightIcon}</span>}
+        </Link>
+      );
+    }
+
     return (
       <button
         className={cn(
