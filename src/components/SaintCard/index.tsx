@@ -21,7 +21,6 @@ export function SaintCard({ title, description, img, rating }: Saint) {
               alt={title}
               fill
               sizes="(min-width: 1280px) 100vw, (min-width: 1024px) 50vw, (min-width: 768px) 33vw, (min-width: 640px) 25vw, 20vw"
-              placeholder="blur"
               style={{ objectFit: "cover" }}
               className="duration-400 transition-transform"
             />

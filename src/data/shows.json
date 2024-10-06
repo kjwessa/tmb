@@ -1,0 +1,50 @@
+[
+  {
+    "title": "The Saints",
+    "imageUrl": "https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/64fea820e1882694e7e2a11c_The%20Saints%20-%20with%20TMB%20Wordmark%201080.png",
+    "rating": "Age 7+",
+    "episodeCount": 100,
+    "overview": "The Saints: Adventures of Faith and Courage bring the Saints to life with a new 5-episode adventure every single week.",
+    "link": "https://www.themerrybeggars.com/shows/the-saints"
+  },
+  {
+    "title": "On the Night Train",
+    "imageUrl": "https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/63fe52ad630a5660d00c71e3_0%20-%20NT%20Square%20Cover%20-%201080p.opt.webp",
+    "rating": "Everyone",
+    "episodeCount": 21,
+    "overview": "It's 1879! Edith and Paul Mallard climb aboard the Night Train as it races the Midnight Express across America! But as accidents delay their journey, a mysterious plot of sabotage begins to emerge. Will Edith and Paul Mallard solve the mystery of the Night Train? Or is their journey doomed to disaster?",
+    "link": "https://www.themerrybeggars.com/shows/on-the-night-train"
+  },
+  {
+    "title": "A Christmas Carol",
+    "imageUrl": "https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/63fe527dae944cddd900a2a1_ACC%20-%20Show%20Graphic.opt.webp",
+    "rating": "Everyone",
+    "episodeCount": 25,
+    "overview": "Join us for a first-of-its-kind audio Advent Calendar as Charles Dickens reads A Christmas Carol in England, 1843.",
+    "link": "https://www.themerrybeggars.com/shows/a-christmas-carol"
+  },
+  {
+    "title": "The Dailies",
+    "imageUrl": "https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/63fe52c196d384336462dbae_S1E1.png",
+    "rating": "Everyone",
+    "episodeCount": 50,
+    "overview": "The Dailies is a series of dramatic readings and conversations showing the true, good, and beautiful with the culture we need in our lives.",
+    "link": "https://www.themerrybeggars.com/shows/the-dailies"
+  },
+  {
+    "title": "Christmas, Live!",
+    "imageUrl": "https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/63fe5316692b4fff139b490a_CLive_1x1.opt.webp",
+    "rating": "Everyone",
+    "episodeCount": 14,
+    "overview": "A Christmas Radio Variety Show for the Whole Family!",
+    "link": "https://www.themerrybeggars.com/shows/christmas-live"
+  },
+  {
+    "title": "The Quarantine Plays",
+    "imageUrl": "https://cdn.prod.website-files.com/63c03e257f43688614b2e63f/63fe4f8aa9c1095569b5b45e_TQP_Show%20Card.opt.webp",
+    "rating": "Age 13+",
+    "episodeCount": 12,
+    "overview": "Discover twelve tales of quarantine, from touching family moments to futuristic adventures.",
+    "link": "https://www.themerrybeggars.com/shows/the-quarantine-plays"
+  }
+]

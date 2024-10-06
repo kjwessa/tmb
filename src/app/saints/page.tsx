@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useRef } from "react";
-import saintsData from "./data.json";
+import saintsData from "@/data/saints.json";
 import { SaintCard } from "@/components/SaintCard/index";
 import { gsap } from "gsap";
 
